@@ -1,0 +1,7 @@
+build/
+.devcontainer/
+.vscode/
+
+*.gcode
+*.SLDASM
+*.SLDPRD

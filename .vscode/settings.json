@@ -1,0 +1,27 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "C:\\Users\\HP\\esp\\v5.4.1\\esp-idf",
+  "idf.toolsPathWin": "C:\\Users\\HP\\.espressif",
+  "idf.pythonInstallPath": "C:\\Users\\HP\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.portWin": "COM11",
+  "idf.flashType": "UART",
+  "files.associations": {
+    "esp_gatt_defs.h": "c",
+    "esp_gap_ble_api.h": "c",
+    "freertos.h": "c",
+    "sound.h": "c",
+    "gpio.h": "c",
+    "charconv": "c",
+    "chrono": "c",
+    "optional": "c",
+    "format": "c",
+    "ratio": "c",
+    "system_error": "c",
+    "array": "c",
+    "functional": "c",
+    "regex": "c",
+    "tuple": "c",
+    "type_traits": "c",
+    "utility": "c"
+  }
+}

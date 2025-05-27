@@ -29,3 +29,17 @@ Kết nối dây module I2S:
 | IO13  | DIN        |
 | IO12  | BCLK       |
 | IO14  | LRC        |
+
+Thay đổi âm lượng (điều chỉnh GAIN của I2S):
+
+
+| Kết nối vào pin GAIN trên board     | GAIN |
+| ----------------------------------------- | :----- |
+| Nối với điện trở 100kΩ xuống GND | 15   |
+| Nối xuống GND                         | 12   |
+| Để trống (mặc định)               | 9    |
+| Nối vào Vdd                           | 6    |
+| Nối với điện trở 100kΩ lên Vdd   | 3    |
+
+*(hàn thêm trở để âm lượng lớn nhất)*
+![hàn thêm trở để âm lượng lớn nhất](images/gain-15.jpg)
